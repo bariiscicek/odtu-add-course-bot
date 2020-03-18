@@ -5,11 +5,10 @@ Between interactive registration period of METU, Students face lots of difficult
 Requirements:
 - **Captcha Buster**
 
-The extension should be installed before the execution of the program. 
-https://github.com/dessant/buster
+[The extension](https://github.com/dessant/buster) should be installed before the execution of the program. 
 
 
-Inputs of the application:
+##### Inputs of the application:
 - Metu User id
 - Metu Password
 - Course Code
