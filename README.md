@@ -2,6 +2,12 @@
 
 Between interactive registration period of METU, Students face lots of difficulties due to **course capacity is full** 
 
+Requirements:
+- Captcha Buster
+the extension should be installed before the execution of the program. 
+https://github.com/dessant/buster
+
+
 Inputs of the application:
 - Metu User id
 - Metu Password
